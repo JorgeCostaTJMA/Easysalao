@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/10/05 08:18:33.000.916,=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 08:22:04.000.873,C:\DelphiCE\EasySalao\uLogin.pas=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 08:22:04.000.873,C:\DelphiCE\EasySalao\uLogin.fmx=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/10/05 08:22:10.000.745,C:\DelphiCE\EasySalao\EasySalao.dproj=C:\Users\jfcosta\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/10/05 13:29:01.000.278,=C:\DelphiCE\EasySalao\Unit1.pas</Transaction>
+    <Transaction>2022/10/05 13:31:17.000.594,C:\DelphiCE\EasySalao\Unit1.fmx=C:\DelphiCE\EasySalao\uPrincipal.fmx</Transaction>
+    <Transaction>2022/10/05 13:31:17.000.594,C:\DelphiCE\EasySalao\Unit1.pas=C:\DelphiCE\EasySalao\uPrincipal.pas</Transaction>
+    <Transaction>2022/10/07 11:13:50.000.059,=C:\DelphiCE\EasySalao\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 11:15:00.000.977,C:\DelphiCE\EasySalao\uServicos.pas=C:\DelphiCE\EasySalao\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 11:15:00.000.977,C:\DelphiCE\EasySalao\uServicos.fmx=C:\DelphiCE\EasySalao\Unit1.fmx</Transaction>
+    <Transaction>2022/10/07 12:16:25.000.734,=C:\DelphiCE\EasySalao\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 12:20:36.000.123,C:\DelphiCE\EasySalao\uReserva.fmx=C:\DelphiCE\EasySalao\Unit1.fmx</Transaction>
+    <Transaction>2022/10/07 12:20:36.000.123,C:\DelphiCE\EasySalao\uReserva.pas=C:\DelphiCE\EasySalao\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 15:04:37.000.330,=C:\DelphiCE\EasySalao\Units\uHorizontalMenu.pas</Transaction>
+    <Transaction>2022/10/07 15:29:02.000.374,=C:\DelphiCE\EasySalao\Unit1.pas</Transaction>
+    <Transaction>2022/10/07 15:29:26.000.260,C:\DelphiCE\EasySalao\Unit1.pas=C:\DelphiCE\EasySalao\udmGlobal.pas</Transaction>
+    <Transaction>2022/10/07 15:29:26.000.260,C:\DelphiCE\EasySalao\Unit1.dfm=C:\DelphiCE\EasySalao\udmGlobal.dfm</Transaction>
+    <Transaction>2022/10/13 14:27:20.000.584,=C:\DelphiCE\EasySalao\Units\uFunctions.pas</Transaction>
+    <Transaction>2022/10/14 11:21:49.000.845,=C:\DelphiCE\EasySalao\Unit1.pas</Transaction>
+    <Transaction>2022/10/14 11:22:15.000.660,C:\DelphiCE\EasySalao\Unit1.pas=C:\DelphiCE\EasySalao\uframeCategoria.pas</Transaction>
+    <Transaction>2022/10/14 11:22:15.000.660,C:\DelphiCE\EasySalao\Unit1.fmx=C:\DelphiCE\EasySalao\uframeCategoria.fmx</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
